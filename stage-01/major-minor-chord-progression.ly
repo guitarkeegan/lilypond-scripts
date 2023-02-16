@@ -4,8 +4,7 @@ melody = \relative c' {
   \clef treble
   \key c \major
   \time 4/4
-
-  r1 r1 r1 r1
+  s1 s1 s1 s1
 }
 
 harmonies = \chordmode {
